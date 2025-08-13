@@ -9,7 +9,7 @@ For the latest ZIP*Data II release notes, please visit:
 ## Tested Environments
 - Windows 64-bit .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 8.0
-- ZIP*Data II for 2025-07
+- ZIP*Data II for 2025-08
 
 ## Getting started
 
