@@ -2,7 +2,7 @@
 
 This is the script that downloads ZIP data for you to use.
 
-For the latest ZIP*Data II release notes, please visit:
+To view the latest ZIP*Data II release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/zip-data-ii/
 
 
